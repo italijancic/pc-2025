@@ -1,0 +1,6 @@
+[submodule "template"]
+	path = template
+	url = https://github.com/italijancic/utn-pc-template
+[submodule "lessons"]
+	path = lessons
+	url = https://github.com/italijancic/pc-2025-lessons
